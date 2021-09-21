@@ -1,0 +1,49 @@
+Landmark,001,Waterford Institute of Technology,199,360
+Landmark,002,The Clock Tower,409,149
+Landmark,003,Bishop's Palace,458,187
+Landmark,004,Cathedral of the Most Holy Trinity,436,165
+Landmark,005,The Apple Market,414,206
+Landmark,006,Thomas Francis Meagher statue,430,158
+Landmark,007,John's St Junction,428,213
+Landmark,008,Meagher's Quay Junction,436,159
+Landmark,009,Tesco Lisduggan,237,289
+Landmark,010,Paddy Browne's Rd Junction,179,366
+Landmark,011,Walsh Park Roundabout,292,252
+Landmark,012,Walsh Park GAA Pitch,290,242
+Landmark,013,Vincent White Rd Roundabout,315,283
+Landmark,014,Matties Hill Junction,309,319
+Landmark,015,Cork rd Roundabout,329,329
+Landmark,016,College street Junction,406,248
+Landmark,017,FerryBank Bridge,373,132
+Landmark,018,Military rd Junction,348,163
+Landmark,019,HyperMarket,341,175
+Landmark,020,Cleaboy Rd Roundabout,279,200
+Landmark,021,NCT Roundabout,155,252
+Road,002,John's St Junction,The Apple Market,120,John's St
+Road,003,John's St Junction,Bishop's Palace,400,Cork rd
+Road,004,Bishop's Palace,Meagher's Quay Junction,650,Cork rd
+Road,005,Meagher's Quay Junction,Cathedral of the Most Holy Trinity,50,Barronstrand St
+Road,006,Meagher's Quay Junction,Thomas Francis Meagher statue,100,Cork rd
+Road,007,Thomas Francis Meagher statue,The Clock Tower,200,Cork rd
+Road,008,Tesco Lisduggan,Paddy Browne's Rd Junction,950,Paddy Browne's rd
+Road,009,Paddy Browne's Rd Junction,Waterford Institute of Technology,400,Cork rd
+Road,010,Walsh Park Roundabout,Tesco Lisduggan,750,Paddy Browne's rd
+Road,011,Walsh Park Roundabout,Walsh Park GAA Pitch,30,Keane's Rd
+Road,012,Walsh Park Roundabout,Vincent White Rd Roundabout,400,Vincent White Rd
+Road,013,Vincent White Rd Roundabout,Matties Hill Junction,350,Matties Hill rd
+Road,014,Matties Hill Junction,Cork rd Roundabout,40,Matties Hill
+Road,015,Cork rd Roundabout,College street Junction,1100,Cork rd
+Road,016,The Clock Tower,FerryBank Bridge,1100,Cork rd along Quay
+Road,017,Waterford Institute of Technology,Cork rd Roundabout,1100,Cork rd
+Road,018,Cork rd Roundabout,College street Junction,1100,Cork rd
+Road,019,College street Junction,John's St Junction,400,Cork rd
+Road,020,FerryBank Bridge,Military rd Junction,900,Military rd
+Road,021,Military rd Junction,HyperMarket,100,Military rd
+Road,022,Cleaboy Rd Roundabout,Walsh Park GAA Pitch,400,Keane's Rd
+Road,023,Cleaboy Rd Roundabout,HyperMarket,750,Upper Yellow Road
+Road,024,NCT Roundabout,Cleaboy Rd Roundabout,1300,Cleaboy Rd
+Road,025,NCT Roundabout,Paddy Browne's Rd Junction,1500,Industrial estate
+
+
+
+
